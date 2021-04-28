@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+#site setting
+local: "ko-KR"
+title: "신원출의 개발 블로그"
