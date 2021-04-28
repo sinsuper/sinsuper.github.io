@@ -1,7 +1,20 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-#site setting
-local: "ko-KR"
-title: "신원출의 블로그"
-description: "관심사를 정리해봅시다."
-show_downloads: "false"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+
+# Site Settings
+locale                   : "ko-KR"
+title                    : "신원출의 블로그"
+title_separator          : "-"
+name                     : "신원출"
+description              : "관심사를 정리해봅시다."
+url                      : "https://sinsuper.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
