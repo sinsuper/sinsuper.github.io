@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 
 #site setting
 local: "ko-KR"
-title: "신원출의 개발 블로그"
+title: "신원출의 블로그"
 description: "관심사를 정리해봅시다."
 show_downloads: "false"
