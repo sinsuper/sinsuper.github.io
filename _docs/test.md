@@ -1,6 +1,6 @@
 ---
-title: "test"
-permalink: /test/
+title: "스프링부트"
+permalink: /springboot/
 excerpt: "테스트 파일"
 last_modified_at: 2021-04-29
 redirect_from:
